@@ -4,8 +4,8 @@
 body{
 	background-image: url("plant1.jpg");
 	background-size:
-	
 }
+
 
 
 
@@ -23,7 +23,7 @@ header{
 
 header h1{
 	font-size: 55px;
-	font-family: pinecone-nvb-rough1-condense, sans-seriff;
+	font-family:"Karla", sans-serif;
 	font-weight: 400;
 	font-style: normal;
 	text-align: center;
@@ -49,12 +49,12 @@ nav li{
 footer{
 	text-align:center;
 	clear:both;
-	font-family:'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif';
+	font-family:'Karla', sans-serif;
 	
 }
 
 nav a:link {
-	font-family:'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif';
+	font-family:'Karla', sans-serif;
 	color:rgba(104,104,104,.75);
 	text-decoration: none;
 	margin-right: 20px;
@@ -86,7 +86,7 @@ nav a:active {
 	float:left;
 	margin-left: 30px;
 	margin-top: 30px;
-	font-family: "Gill Sans", "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-family:"Karla", sans-serif;
 	font-size: 18px;
 	
 }
