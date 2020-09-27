@@ -2,8 +2,7 @@
 /* CSS Document */
 
 body{
-	background: url("plant1jpg.jpg")no-repeat;
-	background-repeat: no-repeat;
+	background-color: aliceblue;
 	background-size: cover;
 	
 }
@@ -16,7 +15,9 @@ body{
 }
 header{
 	width: 100%;
-	height: 100px;
+	height: 175px;
+	text-align: center;
+	
 	
 }
 
